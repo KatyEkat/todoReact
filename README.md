@@ -2,7 +2,7 @@
 
 ## Project link
 
-[[https://true-code.vercel.app/](https://todo-react-brown-two.vercel.app/)](https://todo-react-brown-two.vercel.app/)
+https://todo-react-brown-two.vercel.app/
 
 ## Available Scripts
 
