@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	gap: 10px;
+	margin-bottom: 20px;
+	align-items: center;
+}
+
+.button {
+	padding: 0 24px;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 10px;
+	background: #e4f2bb;
+	border: none;
+	cursor: pointer;
+	transition: background 0.2s ease;
+	padding: 11px 15px;
+	margin-left: 10px;
+}
+
+.button:hover {
+	background: #d3e9a1;
+}
