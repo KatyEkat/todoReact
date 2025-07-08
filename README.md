@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Todo app React
 
 ## Project link
 
@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Contacts for communication on all issues
 
-## <ul>
+<ul>
     <li>katyfrontend@gmail.com</li>
     <li>Telegram katyEkat</li>
 </ul>
